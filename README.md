@@ -1,8 +1,7 @@
-### :office:Careers
-- Major in Electronic Communication at Kwang Woon Univ. (Graduated Feb.2019)
-- Graduated Pai-Chai High School at Feb.2013
+### :office: Front-End Engineer
+- Learning skills to be fully creative Front End Engineer
 
-### :stars:Interest
+### :stars: Interest
 - React Component & AJAX Async Programming  
 - Computer Science about WAS
 - Data Structure & Algorithms at Programmers, BOJ, Codeforces
