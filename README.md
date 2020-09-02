@@ -1,13 +1,14 @@
-## 🌱 I’m currently learning ...
+### Learning
 - React Component & AJAX Async Programming  
+- Computer Science about WAS
+- Data Structure & Algorithms at Programmers, BOJ, Codeforces
 
-## 💬 Careers
-- Major in Electronic Communication at Kwang Woon Univ.
-- Graduated Pai-Chai High School at 02.2013
+### Careers
+- Major in Electronic Communication at Kwang Woon Univ. (Graduated Feb.2019)
+- Graduated Pai-Chai High School at Feb.2013
 
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/https://www.facebook.com/seohyeon.park.7/)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seo_hyun_e_ya/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+<div align=center>
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/https://www.facebook.com/seohyeon.park.7/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seo_hyun_e_ya/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)</div>
 <!--
 **morecreativa/morecreativa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
