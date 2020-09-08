@@ -2,7 +2,8 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/reactJS-Portfolio-orange)](https://heuristic-pasteur-cc10c2.netlify.app/#about)
 
-</div>   
+</div>
+
 ### :office: Front End Engineer
 - Learning skills to be fully creative Front End Engineer
 
