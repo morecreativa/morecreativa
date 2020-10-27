@@ -12,8 +12,8 @@
 - Computer Science about WAS
 - Competitive Programming on Codeforces [Ranked at Specialist]
 - Codeforces Ranked at Specialist
-- 💬 Coding Covid-19-tracker
-- 💬 Making NewStudyBlog
+- Covid-19-tracker
+- 💬 Studying ES6 & Bootstrap
 
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/seohyeon.park.7/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seo_hyun_e_ya/)](https://www.instagram.com/seo_hyun_e_ya/)
