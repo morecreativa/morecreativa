@@ -4,8 +4,8 @@
 
 </div>
 
-### :office: Front End Engineer
-- Learning skills to be fully creative Front End Engineer
+### :office: Full stack Engineer
+- Learning skills to be fully creative Full stack Engineer
 
 ### :stars: Interest
 - React Component & AJAX Async Programming  
